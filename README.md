@@ -11,4 +11,4 @@ Clone this repository and open the folder in VS Code.  Create a virtual environm
 
 ### Google Colab
 
-To open a notebook in Google Colab, replace "github.com" in the URL with "githubtocolab.com".
+To open a notebook in Google Colab, replace "github.com" in the URL with "githubtocolab.com", then click "File > Save a copy in Drive".
